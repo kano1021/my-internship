@@ -1,0 +1,13 @@
+Mining Framework Usage Graphs from App Corpora
+
+Problem: "mining graph-based usage patterns for large, object-oriented frameworks like Android"
+existing method: Groums Mining
+challenge: high cost in solving a subgraph isomorphism problem
+solution/contribution: BIGGROUM
+  1.combine frequent itemset mining with groum mining
+  2.use a SAT-based encoding
+  3.organize the groums of each sub-corpus defined by a itemset cluster into lattice-ordered bins of groums (logroums)
+
+LEARNING TO REPRESENT PROGRAMS WITH GRAPHS
+
+Learning Distributed Representations of Code

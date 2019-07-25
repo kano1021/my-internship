@@ -9,5 +9,13 @@ solution/contribution: BIGGROUM
   3.organize the groums of each sub-corpus defined by a itemset cluster into lattice-ordered bins of groums (logroums)
 
 LEARNING TO REPRESENT PROGRAMS WITH GRAPHS
+Challenge: Current work miss out on the opportunity to capitalize on the rich and well-defined semantics of source code
+Contribution: "take a step to alleviate this by including two additional signal sources in source code: data flow and type hierarchies"
 
 Learning Distributed Representations of Code
+
+
+
+Problem: the article is long and contains lots of things that I don't contact before. 
+         When reading it, I have to keep reread the previous sentenses, but it's still 
+         difficult for me to understand and remember things. 

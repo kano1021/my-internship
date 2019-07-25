@@ -9,6 +9,12 @@ solution/contribution: BIGGROUM
     challenge: for big graph: checking the satisfiability of the embedding encoding is not practical
     solutions: use optimization to reduce the size
   3.organize the groums of each sub-corpus defined by a itemset cluster into lattice-ordered bins of groums (logroums)
+    Slicing?(not really understand)Binning and lattice construction and classification.
+evaluation:
+  1.using the frequent itemset is necessary to scale to large corpora of apps
+  2.biggroup is better
+  3.SAT checker
+  4.threat when change framework and initial setting
 
 LEARNING TO REPRESENT PROGRAMS WITH GRAPHS
 Challenge: Current work miss out on the opportunity to capitalize on the rich and well-defined semantics of source code
